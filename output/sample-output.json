@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "total_records_processed": 8
+  },
+  "results": {
+    "all_emails": [
+      "mark.kasai@alueducation.com",
+      "contact@techhub.rw",
+      "lead_instructor@si.alueducation.com",
+      "alumni.dev@alumni.alueducation.com"
+    ],
+    "alu_emails": [
+      "mark.kasai@alueducation.com",
+      "lead_instructor@si.alueducation.com",
+      "alumni.dev@alumni.alueducation.com"
+    ],
+    "masked_cards": [],
+    "phone_numbers": [
+      "987-654-3210",
+      "503) 555-0199"
+    ],
+    "urls": [
+      "http://api.service-node.org/v2/fetch",
+      "https://portal.alueducation.com/dashboard/home?user_id=8841"
+    ]
+  }
+}
